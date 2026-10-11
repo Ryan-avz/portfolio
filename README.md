@@ -7,7 +7,7 @@ Each project lives in its own folder with its own README.
 
 | Project | Description |
 | --- | --- |
-| [scheduling-system](./scheduling-system) | Terminal-based appointment manager with client registration and file storage |
+| [scheduling-system.py](./scheduling-system.py) | Terminal-based appointment manager with client registration and file storage |
 
 ## Notes
 
